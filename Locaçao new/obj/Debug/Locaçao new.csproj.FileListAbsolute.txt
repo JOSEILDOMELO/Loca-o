@@ -1,0 +1,7 @@
+C:\Users\Windows 7\source\repos\Locaçao new\Locaçao new\bin\Debug\Locaçao new.exe.config
+C:\Users\Windows 7\source\repos\Locaçao new\Locaçao new\bin\Debug\Locaçao new.exe
+C:\Users\Windows 7\source\repos\Locaçao new\Locaçao new\bin\Debug\Locaçao new.pdb
+C:\Users\Windows 7\source\repos\Locaçao new\Locaçao new\obj\Debug\Locaçao new.csproj.AssemblyReference.cache
+C:\Users\Windows 7\source\repos\Locaçao new\Locaçao new\obj\Debug\Locaçao new.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\source\repos\Locaçao new\Locaçao new\obj\Debug\Locaçao new.exe
+C:\Users\Windows 7\source\repos\Locaçao new\Locaçao new\obj\Debug\Locaçao new.pdb
